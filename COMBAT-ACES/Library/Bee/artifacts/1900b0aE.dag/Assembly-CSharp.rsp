@@ -364,6 +364,7 @@
 "Assets/Scripts/BulletController.cs"
 "Assets/Scripts/ChaseController.cs"
 "Assets/Scripts/FireController.cs"
+"Assets/Scripts/HealthController.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/SpawnManager.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
